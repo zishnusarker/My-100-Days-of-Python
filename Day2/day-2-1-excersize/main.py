@@ -1,14 +1,11 @@
-from numpy import double
+# 🚨 Don't change the code below 👇
+two_digit_number = input("Type a two digit number: ")
+# 🚨 Don't change the code above 👆
 
+####################################
+#Write your code below this line 👇
+first_number= int(two_digit_number[0])
+second_number= int(two_digit_number[1])
 
-s= input(print("Give an Integer"))
-print(type(int(s)))
-
-p= input(print("\nGive an float"))
-print(type(float(p)))
-
-q= input(print("\nGive an double"))
-print(type(double(q)))
-
-r= input(print("\nGive an string"))
-print(type(string(r)))
+result = first_number + second_number
+print(result)

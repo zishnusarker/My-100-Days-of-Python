@@ -1,5 +1,3 @@
-from numpy import double
-
 
 s= input(print("Give an Integer"))
 print(type(int(s)))

@@ -19,3 +19,11 @@ More Info [here](Day2)
 i learn about console 
 
 More Info [here](Day3)
+
+## Day 4 
+
+i learn about randomizations and python lists [here](Day4)
+
+## Day 5 
+
+i learn python loops [here](Day5)
